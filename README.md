@@ -42,7 +42,7 @@ I'm a passionate **Software Engineer** and **Frontend Developer**, with a focus 
 
 - 📧 Email: [aqibm1968@gmail.com](mailto:aqibm1968@gmail.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-aqib-000255320/)
-- 🌍 Portfolio: _coming soon!_
+- 🌍 Portfolio: https://aqib-portfolio-swart.vercel.app/
 
 ---
 
