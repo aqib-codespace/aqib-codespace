@@ -45,7 +45,7 @@ Most of my client work is private, so these are summaries rather than code.
 | Project | What it does | Stack | Links |
 | --- | --- | --- | --- |
 | **Food Lab Reporting System** | Lab operations platform: sample tracking, staff management, report generation, role-based access | Next.js, React, TypeScript, Supabase, Tailwind CSS | [Live demo](https://food-lab-reporting-system.vercel.app) · [Code](https://github.com/aqib-codespace/food-lab-reporting-system) |
-| **TrioCart** | E-commerce storefront: product catalog, filtering, cart, checkout flow, order emails | Next.js, Redux Toolkit, React Query, Supabase, Zod | [Live demo](https://trio-cart.vercel.app) · [Code](https://github.com/aqib-codespace/triocart-ecommerce) |
+| **TrioCart** | E-commerce storefront: shop with filters and sorting, cart, wishlist, checkout flow, customer dashboard | Next.js, Redux Toolkit, Supabase Auth, Zod, Tailwind CSS | [Live demo](https://trio-cart.vercel.app) · [Code](https://github.com/aqib-codespace/triocart-ecommerce) |
 | **Vibely** | Social platform I designed and built from my own idea: personalized feeds, real-time chat, video sharing, friend connections, built-in marketplace | Next.js, Redux Toolkit, Node.js, Express, MongoDB, Socket.IO, AWS S3, Cloudinary | Code available on request |
 <!-- Add each new project as a row, for example:
 | **AI Voice Receptionist** | Answers calls, books appointments, syncs to the CRM | Node.js, Vapi, OpenAI, GoHighLevel | [Demo video](LINK) · [Code](LINK) |
