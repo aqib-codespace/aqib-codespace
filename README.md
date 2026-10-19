@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://aqib-portfolio-mern.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://aqib-engineer.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/aqib-engineer2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:aqibm1968@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:aqib.aidev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Open_to-Freelance_%26_Contract_Work-2EA44F?style=for-the-badge" alt="Open to freelance and contract work" />
 </p>
 
@@ -90,4 +90,4 @@ Most of my client work is private, so these are summaries rather than code.
 
 ### Let's work together
 
-If your numbers don't add up and nobody can tell you where the leads went, that's the problem I enjoy most. Email me at **[aqibm1968@gmail.com](mailto:aqibm1968@gmail.com)** or message me on **[LinkedIn](https://www.linkedin.com/in/aqib-engineer2/)**.
+If your numbers don't add up and nobody can tell you where the leads went, that's the problem I enjoy most. See my work at **[aqib-engineer.dev](https://aqib-engineer.dev)**, email me at **[aqib.aidev@gmail.com](mailto:aqib.aidev@gmail.com)** or message me on **[LinkedIn](https://www.linkedin.com/in/aqib-engineer2/)**.
